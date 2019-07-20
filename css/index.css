@@ -209,3 +209,44 @@ header {
 .jumbo {
     margin-bottom: 20px;
 }
+
+.text-container-about {
+    padding: 0 1%;
+    padding-bottom: 20px
+}
+
+.middle-content-about {
+    /* width: 800px; */
+    margin-top: 40px;
+    height: 950px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.about-block {
+    width: 375px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-bottom: 50px;
+    border-bottom: 1px dashed black;
+}
+
+.about-block button {
+    font-size: 16px;
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 8px 20px;
+    border: 2px solid black;
+}
+
+.bottom-content-about {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
