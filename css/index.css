@@ -336,3 +336,18 @@ header {
     padding: 20px;
 
 }
+
+.text-container-blog {
+    padding: 0 1%;
+    padding-bottom: 20px
+}
+
+.middle-content-blog {
+    padding: 30px;
+    border-bottom: 1px dashed black;
+    margin-bottom: 30px;
+}
+
+.middle-content-blog .firstp {
+    color: crimson;
+}
