@@ -321,6 +321,13 @@ header {
     border-radius: 10px;
     padding: 8px 20px;
     border: 2px solid black;
+    transition: 0.3s;
+}
+
+.about-block button:hover {
+    color: white;
+    background: crimson;
+    border: 2px solid transparent;
 }
 
 .bottom-content-about {
