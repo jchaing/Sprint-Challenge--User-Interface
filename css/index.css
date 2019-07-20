@@ -110,46 +110,117 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: 0.3s;
 }
 
 .middle-content .boxes .box1 {
     background: teal;
 }
 
+.middle-content .boxes .box1:hover {
+    background: white;
+    color: teal;
+    border: 5px solid teal;
+    border-radius: 50%;
+}
+
 .middle-content .boxes .box2 {
     background: gold;
+}
+
+.middle-content .boxes .box2:hover {
+    background: white;
+    color: gold;
+    border: 5px solid gold;
+    border-radius: 50%;
 }
 
 .middle-content .boxes .box3 {
     background: cadetblue;
 }
 
+.middle-content .boxes .box3:hover {
+    background: white;
+    color: cadetblue;
+    border: 5px solid cadetblue;
+    border-radius: 50%;
+}
+
 .middle-content .boxes .box4 {
     background: coral;
+}
+
+.middle-content .boxes .box4:hover {
+    background: white;
+    color: coral;
+    border: 5px solid coral;
+    border-radius: 50%;
 }
 
 .middle-content .boxes .box5 {
     background: crimson;
 }
 
+.middle-content .boxes .box5:hover {
+    background: white;
+    color: crimson;
+    border: 5px solid crimson;
+    border-radius: 50%;
+}
+
 .middle-content .boxes .box6 {
     background: forestgreen;
+}
+
+.middle-content .boxes .box6:hover {
+    background: white;
+    color: forestgreen;
+    border: 5px solid forestgreen;
+    border-radius: 50%;
 }
 
 .middle-content .boxes .box7 {
     background: darkorchid;
 }
 
+.middle-content .boxes .box7:hover {
+    background: white;
+    color: darkorchid;
+    border: 5px solid darkorchid;
+    border-radius: 50%;
+}
+
 .middle-content .boxes .box8 {
     background: hotpink;
+}
+
+.middle-content .boxes .box8:hover {
+    background: white;
+    color: hotpink;
+    border: 5px solid hotpink;
+    border-radius: 50%;
 }
 
 .middle-content .boxes .box9 {
     background: indigo;
 }
 
+.middle-content .boxes .box9:hover {
+    background: white;
+    color: indigo;
+    border: 5px solid indigo;
+    border-radius: 50%;
+}
+
 .middle-content .boxes .box10 {
     background: dodgerblue;
+}
+
+.middle-content .boxes .box10:hover {
+    background: white;
+    color: dodgerblue;
+    border: 5px solid dodgerblue;
+    border-radius: 50%;
 }
 
 .bottom-content {
